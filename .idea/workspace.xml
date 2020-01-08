@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="763ac802-6f5b-4468-83fd-abccedeb7ad3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:/Halsey/Soft/Go" />
+  <component name="ProjectId" id="1Uf6WfOOmm7dQRsb9ELmVR0vdQR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../terminus.io/spot/spot-status" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\halsey\go\src\github.com\lyu302\stock" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/lyu302/stock/cmd/spider">
+    <configuration name="go build github.com/lyu302/stock/cmd/spider" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="stock" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/spider/main.go" />
+      <package value="github.com/lyu302/stock/cmd/spider" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="stock" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/spider/main.go" />
+      <package value="github.com/lyu302/stock" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/lyu302/stock/cmd/spider" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="723" height="466" key="DebuggerActiveHint" timestamp="1577309679921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="723" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1577309679921" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1577104736791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577104736791" />
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1577359153722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577359153722" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1577359153722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577359153722" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1577359153722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577359153722" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1577359153722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577359153722" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1577359153662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577359153662" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1577359153662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577359153662" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1577359153662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577359153662" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1577359153662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577359153662" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1577202514684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1577202514684" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576066971909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576066971909" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="err.Error()" language="go" />
+        <watch expression="err.Error()" language="go" />
+        <watch expression="rsp.Body" language="go" />
+        <watch expression="string(rsp.Body)" language="go" />
+        <watch expression="string(body)" language="go" />
+        <watch expression="url" language="go" />
+        <watch expression="time.Now().Nanosecond() - start.Nanosecond()" language="go" />
+        <watch expression="start.UnixNano()" language="go" />
+        <watch expression="string(body)" language="go" />
+        <watch expression="rand.Intn(3)" language="go" />
+        <watch expression="string(body)" language="go" />
+        <watch expression="string(body)" language="go" />
+        <watch expression="err.Error()" language="go" />
+        <watch expression="err.Error()" language="go" />
+        <watch expression="(mean + 3 * std" language="go" />
+        <watch expression="mean + 3 * std" language="go" />
+        <watch expression="mean - 3 * std" language="go" />
+        <watch expression="&amp;values" language="go" />
+        <watch expression="&amp;sortValues" language="go" />
+        <watch expression="quotes" language="go" />
+        <watch expression="qs" language="go" />
+        <watch expression="vp" language="go" />
+        <watch expression="count" language="go" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
